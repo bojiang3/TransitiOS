@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="Open GPX Tracker for iOS">
+	<wpt lat="40.441498" lon="-79.946998">
+		<time>2019-12-06T14:19:25Z</time>
+		<name>09:19:25</name>
+		<desc>Dec 6, 2019 at 09:19:25</desc>
+	</wpt>
+	<wpt lat="40.440505" lon="-79.942366">
+		<time>2019-12-06T14:19:29Z</time>
+		<name>09:19:29</name>
+		<desc>Dec 6, 2019 at 09:19:29</desc>
+	</wpt>
+	
+	<trk>
+	</trk>
+</gpx>
